@@ -1,0 +1,14 @@
+C:\Users\taufi\DrawingApp\bin\Debug\net8.0-windows\DrawingApp.exe
+C:\Users\taufi\DrawingApp\bin\Debug\net8.0-windows\DrawingApp.deps.json
+C:\Users\taufi\DrawingApp\bin\Debug\net8.0-windows\DrawingApp.runtimeconfig.json
+C:\Users\taufi\DrawingApp\bin\Debug\net8.0-windows\DrawingApp.dll
+C:\Users\taufi\DrawingApp\bin\Debug\net8.0-windows\DrawingApp.pdb
+C:\Users\taufi\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taufi\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.AssemblyInfoInputs.cache
+C:\Users\taufi\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.AssemblyInfo.cs
+C:\Users\taufi\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\taufi\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.dll
+C:\Users\taufi\DrawingApp\obj\Debug\net8.0-windows\refint\DrawingApp.dll
+C:\Users\taufi\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.pdb
+C:\Users\taufi\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.genruntimeconfig.cache
+C:\Users\taufi\DrawingApp\obj\Debug\net8.0-windows\ref\DrawingApp.dll
